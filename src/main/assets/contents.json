@@ -1,0 +1,365 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.DHACD.Jimbroo",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+    {
+      "identifier": "2",
+      "name": "Jimbrootan common stickers1",
+      "publisher": "Man_At_Town",
+      "tray_image_file": "dp.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"atmaprajodkrishnadhacd@gmail.com",
+      "publisher_website": "https://www.instagram.com/man_at_town/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "jimbru1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "jimbru2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "jimbru3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "jimbru4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "jimbru5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "jimbru6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "jimbru7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "jimbru8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "jimbru9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "jimbru10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "jimbru11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "jimbru12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "jimbru13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "jimbru14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "jimbru15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "jimbru16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "jimbru17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "jimbru18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "jimbru19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "jimbru20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "jimbru21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "jimbru22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "jimbru23.webp",
+          "emojis": ["🍵","😌"]
+        },
+
+        {
+          "image_file": "jimbru24.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "jimbru25.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "jimbru26.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "jimbru27.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "jimbru28.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "jimbru29.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "jimbru30.webp",
+          "emojis": ["🍵","😌"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Jimbrootan common stickers2",
+      "publisher": "Man_At_Town",
+      "tray_image_file": "dp.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"atmaprajodkrishnadhacd@gmail.com",
+      "publisher_website": "https://www.instagram.com/man_at_town/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "j1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "j2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "j3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "j4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "j5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "j6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "j7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "j8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "j9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "j10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "j11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "j12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "j13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "j14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "j15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "j16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "j17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "j18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "j19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "j20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "j21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "j22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "j23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "j24.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "j25.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "j26.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "j27.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "j28.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "j29.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "j30.webp",
+          "emojis": ["🍵","😌"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Jimbrootan exclusives",
+      "publisher": "Man_At_Town",
+      "tray_image_file": "dp.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"atmaprajodkrishnadhacd@gmail.com",
+      "publisher_website": "https://www.instagram.com/man_at_town/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "j1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "j2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "j3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "j4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "j5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "j6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "j7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "j8.webp",
+          "emojis": ["😭","💧"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Jimbrootan Common stickers 3",
+      "publisher": "Man_At_Town",
+      "tray_image_file": "dp.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"atmaprajodkrishnadhacd@gmail.com",
+      "publisher_website": "https://www.instagram.com/man_at_town/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "j1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "j2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "j3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "j4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "j5.webp",
+          "emojis": ["😭","💧"]
+        },
+
+        {
+          "image_file": "j6.webp",
+          "emojis": ["😭","💧"]
+        }
+
+
+      ]
+    }
+
+  ]
+}
